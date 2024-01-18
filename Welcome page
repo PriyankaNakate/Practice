@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WELCOME PAGE</title>
+    <style>
+        h1{
+            font-size: 80px;
+            color: orangered;
+            text-shadow: 0px 0px 10px rgb(43, 232, 56);
+            margin-top: 250px;
+        }
+        a{
+            text-decoration: none;
+        }
+        body{
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+    </style>
+</head>
+<body background="https://img.freepik.com/free-vector/engraving-hand-drawn-floral-background_23-2148924361.jpg">
+    <center>
+        <a href="Content_Page.html" title="Please Click Me">
+            <h1>WELCOME TO PUNE</h1> </a>
+    </center>
+</body>
+</html>
