@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Content Page</title>
+    <style>
+        h1{
+            font-size: 80px;
+            color:#055652;
+        }
+        body{
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+        table{
+            margin-top: 120px;
+            background-color: rgb(196, 195, 240);
+            border-color: black;
+            width: 50%;
+        }
+    </style>
+</head>
+<body background="https://media.istockphoto.com/id/1038049838/vector/abstract-retro-geometric-background-in-soft-colors-with-squares-and-copy-space.jpg?s=612x612&w=0&k=20&c=HIL6cm7tPrKNajG9YCgqTuF2qO4UphhvOf8uP-JMi-s=">
+    <h1 align="center">CONTENTS</h1>
+    <center>
+    <table border="2px" bordercolor="red" style="border-spacing: 0px; border-radius: 10px;">
+        <tr height="50px">
+            <center>
+            <th width="10%">Sr.No</th>
+            <th width="40%">Name of the Places</th>
+            <th width="50%">Link</th></center>
+        </tr>
+        <tr height="30px">
+            <center>
+            <td>1</td>
+            <td>Swami Narayan Temple</td>
+            <td><a title="Please click me" href="Swami_Narayan.html">Swami Narayan Temple link</a></td></center>
+        </tr>
+        <center>
+        <tr height="30px">
+            <td>2</td>
+            <td>Bhimashankar Temple</td>
+            <td><a title="Please click me" href="Bhimashankar_Temple.html">Bhimashankar Temple link</a></td></center>
+        </tr>
+        <tr height="30px">
+            <td>3</td>
+            <td>Parvati Hill Temple</td>
+            <td><a title="Please click me" href="Parvati Hill Temple.html">Parvati Hill Temple link</a></td></center>
+        </tr>
+        <tr height="30px">
+            <td>4</td>
+            <td>Iskon Temple</td>
+            <td><a title="Please click me" href="Iskon Temple.html">Iskon Temple link</a></td></center>
+        </tr>
+        <tr height="30px">
+            <td>5</td>
+            <td>Pataleshwar Cave Temple</td>
+            <td><a title="Please click me" href="Pataleshwar Cave Temple.html">Pataleshwar Cave Temple link</a></td>
+        </tr></center>
+    </table>
+</center>
+</body>
+</html>
